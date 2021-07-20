@@ -1,6 +1,5 @@
 import React from 'react';
 import MarketingApp from './components/MarketingApp';
-// Comment added to trigger latest workflow
 
 export default () => {
     return(
